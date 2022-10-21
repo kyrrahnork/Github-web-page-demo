@@ -2,6 +2,7 @@ html {
     width: 100%;
     background-color: #000;
     background-image: url("../images/forest.webp");
+    background-size: cover;
 }
 
 body {
